@@ -1,6 +1,6 @@
 # Logistic-Regression-Classification-
 ## Logistic Regression Projects
-This section includes two linear regression projects completed during Udemy course (Python for Data Science and Machine Learning Boot camp) taught by Jose Portilla. 
+This section includes two logistic regression projects completed during Udemy course (Python for Data Science and Machine Learning Boot camp) taught by Jose Portilla. 
 ## Project 1: Titanic Survival Prediction
 The model will predict a classification - Survival or Deceased depending on different features  
 * Pclass,  
