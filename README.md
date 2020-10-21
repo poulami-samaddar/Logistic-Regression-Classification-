@@ -11,13 +11,13 @@ The model will predict a classification - Survival or Deceased depending on diff
 * Sex, 
 * Embarked
 
-Titanic Data Set from Kaggle is used for this project. Some data cleaning and data processing job is also done before using into a logistic regression model. After training 82% accuracy is achived.  
+Titanic Data Set from Kaggle is used for this project. Some data cleaning and data processing job is also done before using into a logistic regression model. After training 82% accuracy is achieved.  
 
 
 ## Project 2: Ad Click Prediction
 In this project a logistic regression model is predicted using advertising data set. After training the model can predict if a particular user clicked on an Advertisement. This data set contains the following features    
 * 'Daily Time Spent on Site': consumer time on site in minutes
-* 'Age': cutomer age in years
+* 'Age': consumer age in years
 * 'Area Income': Avg. Income of geographical area of consumer
 * 'Daily Internet Usage': Avg. minutes a day consumer is on the internet
 * 'Ad Topic Line': Headline of the advertisement
